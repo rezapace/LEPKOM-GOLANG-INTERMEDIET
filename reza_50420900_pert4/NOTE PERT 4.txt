@@ -1,0 +1,5 @@
+buka xampp
+jalankan apache sama mysql nya
+
+pindah kan file reza_50420900_pert4
+C:\Program Files\Go\src
