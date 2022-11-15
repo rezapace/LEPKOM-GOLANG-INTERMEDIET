@@ -1,0 +1,14 @@
+taro file 
+C:\Program Files\Go\src
+
+buka sql nya dengan vscode 
+kemudian buka xampp
+masukan data nya 
+
+buka ke golang file td lalu go run main.go
+http://127.0.0.1:8000/
+
+yang di ss
+Mahasiswa.html
+Main.go
+DATABASE output
