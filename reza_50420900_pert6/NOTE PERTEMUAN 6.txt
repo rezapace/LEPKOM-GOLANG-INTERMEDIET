@@ -1,0 +1,13 @@
+taro file di
+C:\Program Files\Go\src
+
+ubah nama di file 
+about-page.html
+ogin-page.html
+message-page.html
+
+DI EXTRACT YANG FILE POLYMER
+ubah port
+main.go
+
+http://localhost:8000
